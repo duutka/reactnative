@@ -3440,6 +3440,11 @@
   dependencies:
     "assert-plus" "^1.0.0"
 
+"git-cz@^4.7.6":
+  "integrity" "sha512-WtQEXqetJSi9LKPI77bMdSQWvLGjE93egVbR0zjXd1KFKrFvo/YE/UuGNcMeBDiwzxfQBhjyV7Hn0YUZ8Q0BcQ=="
+  "resolved" "https://registry.npmjs.org/git-cz/-/git-cz-4.7.6.tgz"
+  "version" "4.7.6"
+
 "glob-parent@^5.0.0":
   "integrity" "sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow=="
   "resolved" "https://registry.npmjs.org/glob-parent/-/glob-parent-5.1.2.tgz"
@@ -5655,7 +5660,7 @@
     "kleur" "^3.0.3"
     "sisteransi" "^1.0.5"
 
-"prop-types@^15.7.2":
+"prop-types@^15.6.2", "prop-types@^15.7.2":
   "integrity" "sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ=="
   "resolved" "https://registry.npmjs.org/prop-types/-/prop-types-15.7.2.tgz"
   "version" "15.7.2"
@@ -5729,6 +5734,13 @@
   "integrity" "sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ=="
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
   "version" "16.13.1"
+
+"react-native-camera@^3.43.9":
+  "integrity" "sha512-HTXxkGdNa9G0ErVXBoqsf1lYorBXjXfVZbDeHUBVxQrOqL8CV3eJTuaY5kHH41Y7woJ8yISmklZeUwpZrskEgw=="
+  "resolved" "https://registry.npmjs.org/react-native-camera/-/react-native-camera-3.43.9.tgz"
+  "version" "3.43.9"
+  dependencies:
+    "prop-types" "^15.6.2"
 
 "react-native-codegen@^0.0.6":
   "integrity" "sha512-cMvrUelD81wiPitEPiwE/TCNscIVauXxmt4NTGcy18HrUd0WRWXfYzAQGXm0eI87u3NMudNhqFj2NISJenxQHg=="
